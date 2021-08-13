@@ -1,5 +1,6 @@
 # Web Scraping
 ###### Start Date: 13 August 2021
+###### Referenced from: https://realpython.com/beautiful-soup-web-scraper-python/
 
 ## Software Used
 - Ubuntu 20.04.2 LTS
